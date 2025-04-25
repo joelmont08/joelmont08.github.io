@@ -11,3 +11,24 @@
     background-color: rgb(182, 182, 182);
     line-height: 1.7;
 }
+#text-primary{
+    color: #3498db;
+}
+
+img{
+    max-width: 70%;  
+}
+
+.progress{
+    background-color: rgba(250,255,255,0.2);
+    border-radius: 20px;
+    overflow: hidden;
+}
+/* estillos de las cards */
+.card{
+    transition: 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
