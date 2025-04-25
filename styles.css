@@ -1,0 +1,13 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.bg-prim{
+    background-color: rgb(103, 151, 118) !important;
+} #arabe {
+    height: 300px;
+    width: 250px;
+
+} body{
+    background-color: rgb(182, 182, 182);
+    line-height: 1.7;
+}
